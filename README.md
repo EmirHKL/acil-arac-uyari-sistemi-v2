@@ -71,3 +71,7 @@ Detaylı ana senaryo için:
 - 100 metre menzil içerisinde hedef araç bulunamaması
 - Bildirim servisinin geçici olarak devre dışı kalması
 - Konum verisinin doğrulanamaması
+
+
+**GitHub:** https://github.com/EmirHKL/acil-arac-uyari-sistemi-v2  
+**Takım:** Emir Haklı, Beşir Adil Araboğa
