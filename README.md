@@ -1,7 +1,8 @@
 # Acil Durum Araçları Uyarı Sistemi
 
-![Proje Posteri](assets/poster.png)
-
+![Proje Posteri](flayer.png)
+**GitHub:** https://github.com/EmirHKL/acil-arac-uyari-sistemi-v2  
+**Takım:** Emir Haklı, Beşir Adil Araboğa
 ---
 
 ## Proje Tanımı
@@ -27,7 +28,10 @@ Bu projenin temel amacı, acil durum araçlarının trafikteki ilerleme süresin
 - 100 metre menzil içerisinde bulunan araçların otomatik olarak tespit edilmesi  
 - Hedef sürücülere uyarı bildirimi gönderilmesi  
 - Sistem gecikme süresi ve doğruluk oranlarının ölçülmesi  
-- Akademik ve teknik olarak uygulanabilir bir prototip geliştirilmesi  
+- Akademik ve teknik olarak uygulanabilir bir prototip geliştirilmesi
+
+Detaylı gereksinim senaryoları için:  
+📄 `docs/requirements_scenarios.md` 
 
 ---
 
@@ -45,3 +49,25 @@ Bu proje, altyapı bağımlılığı gerektirmeyen, hazır araç takip cihazı k
 - Mesafe hesaplama algoritması (Haversine)
 - Bildirim modülü (Mock)
 - Loglama ve test altyapısı
+
+### Kullanım Senaryoları (Use Cases)
+
+- UC-1: Acil durum aracının konum bilgisinin alınması
+- UC-2: 100 metre menzil içerisindeki araçların tespit edilmesi
+- UC-3: Hedef sürücülere uyarı bildirimi gönderilmesi
+
+Detaylı kullanım senaryoları için:  
+📄 `docs/use_cases.md`
+
+### Ana Senaryo
+
+Acil durum aracı hareket halindeyken sistem konum bilgisini alır, bulut sunucuya iletir, menzil analizini gerçekleştirir ve hedef sürücülere uyarı gönderir.
+
+Detaylı ana senaryo için:  
+📄 `docs/main_scenario.md`
+
+### Alternatif Senaryolar
+
+- 100 metre menzil içerisinde hedef araç bulunamaması
+- Bildirim servisinin geçici olarak devre dışı kalması
+- Konum verisinin doğrulanamaması
