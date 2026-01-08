@@ -1,6 +1,6 @@
 # Acil Durum Araçları Uyarı Sistemi
 
-assets/flayer.png
+![Ürün Tanıtım Broşürü](assets/flyer.png)
 ---
 
 ## Proje Tanımı
