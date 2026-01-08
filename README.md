@@ -1,8 +1,6 @@
 # Acil Durum Araçları Uyarı Sistemi
 
 ![Proje Posteri](flayer.png)
-**GitHub:** https://github.com/EmirHKL/acil-arac-uyari-sistemi-v2  
-**Takım:** Emir Haklı, Beşir Adil Araboğa
 ---
 
 ## Proje Tanımı
