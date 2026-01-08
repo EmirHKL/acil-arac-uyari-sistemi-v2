@@ -73,3 +73,6 @@ Detaylı ana senaryo için:
 
 **GitHub:** https://github.com/EmirHKL/acil-arac-uyari-sistemi-v2  
 **Takım:** Emir Haklı, Beşir Adil Araboğa
+
+Render flyer image inline in README
+
